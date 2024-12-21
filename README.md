@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, pessoal 👋 
+## Me chamo Walber Ranniere, desenvolvedor full-stack que ama resolver problemas com linhas de código. Conheça um pouco do meu trabalho 😄
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalberRanniere&show_icons=true&theme=transparent) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalberRanniere&layout=compact&theme=transparent)
+
 
 <!--
 **WalberRanniere/WalberRanniere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
